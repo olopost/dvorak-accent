@@ -14,17 +14,17 @@ For example stroke `'` after `e` : create `é` key
 
    
 
-   ![install_1](C:\Users\samue\Documents\dvorak-accent\_images\install_1.png)
+   ![install_1](_images/install_1.png)
 
 click on language and click option
 
 below at keyboard section click on add keyboard and select "État-Unis Dvorak SME 0.3"
 
-![install_2](C:\Users\samue\Documents\dvorak-accent\_images\install_2.png)
+![install_2](_images/install_2.png)
 
 
 
 Please see the following recording :
 
-![install](C:\Users\samue\Documents\dvorak-accent\_images\install.gif)
+![install](_images/install.gif)
 
